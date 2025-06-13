@@ -1,5 +1,5 @@
 import OpenAI from "openai";
-import { Message } from "../types/chat";
+import type { Message } from "../types/chat";
 
 // Note: In a production app, the API key should be stored securely on the backend
 // This is a demo implementation
